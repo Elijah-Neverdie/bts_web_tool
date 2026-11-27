@@ -2,7 +2,7 @@
 // @name         bts_web_tool
 // @name:zh-CN   bts_web_tool
 // @namespace    https://btsow.live/
-// @version      2.0.1
+// @version      2.0.2
 // @updateURL    https://raw.githubusercontent.com/Elijah-Neverdie/bts_web_tool/main/bts_web_tool.user.js
 // @downloadURL  https://raw.githubusercontent.com/Elijah-Neverdie/bts_web_tool/main/bts_web_tool.user.js
 // @description  Restyle BTSOW magnet conversion and search results in a cold, desaturated layout. Copy magnet links, and send detail-page magnets to the NAS Xunlei engine.
@@ -15,7 +15,6 @@
 // @noframes
 // @connect      10.10.10.10
 // @connect      10.144.0.1
-// @connect      REDACTED_IPV6
 // @connect      *
 // @grant        GM_setValue
 // @grant        GM_getValue
