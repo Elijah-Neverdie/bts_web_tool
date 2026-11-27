@@ -2,13 +2,15 @@
 // @name         bts_web_tool
 // @name:zh-CN   bts_web_tool
 // @namespace    https://btsow.live/
-// @version      2.0.0
+// @version      2.0.1
+// @updateURL    https://raw.githubusercontent.com/Elijah-Neverdie/bts_web_tool/main/bts_web_tool.user.js
+// @downloadURL  https://raw.githubusercontent.com/Elijah-Neverdie/bts_web_tool/main/bts_web_tool.user.js
 // @description  Restyle BTSOW magnet conversion and search results in a cold, desaturated layout. Copy magnet links, and send detail-page magnets to the NAS Xunlei engine.
 // @description:zh-CN  把 BTSOW 磁力转换页、搜索结果和详情页改成性冷淡排版；支持复制磁力，并把详情页磁力一键发送到 NAS 迅雷引擎。
 // @match        *://btsow.live/*
 // @match        *://*.btsow.live/*
 // @include      /^https?:\/\/[^/]+\/webman\/3rdparty\/pan-xunlei-com\/index\.cgi\/.*$/
-// @require      file:///E:/Code/cursor_projects/nas-xunlei-lib/nas-xunlei-button.lib.js
+// @require      https://raw.githubusercontent.com/Elijah-Neverdie/bts_web_tool/main/lib/nas-xunlei-button.lib.js
 // @run-at       document-start
 // @noframes
 // @connect      10.10.10.10
